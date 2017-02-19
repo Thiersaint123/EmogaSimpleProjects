@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<!-- THIS WEBSITE WAS CREATED BY JEFFREY THIERSAINT FOR HIS DEAR FRIEND MR NEWTON -->
+
+<html lang="en">
+
+<head>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5360061648285190",
+    enable_page_level_ads: true
+  });
+</script>
+
+<title> Mentor / Youth  </title>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="animations.css">
+
+<meta charset="utf-8" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 1000, function(){
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<!-- THIS IS FOR VIEWS -->
+ <meta name="description" content=" Mentoring kids from Stamford to Greenwich. Life is like a puzzle but we're always missing one piece. ">
+  <meta name="keywords" content="mentoring, tedx, education, mentor, ted talks, tedx talk, tedx talks, ted talk, ted x, ted, business, united states, mentorship, english, difficult mentee, therapy session, how-to-mentor, how to mentor, funny protege, mentor therapist, session, funny mentoring situation, bad mentoring, funny mentor, funny mentoring, funny mentee, funny mentoring video, coaching and mentoring, learning and development, mentee, university of oklahoma, norman, tedxou, oklahoma sooners, oklahoma, michael benko, nurses, nursing, inspirational, social change">
+   <meta name="author" content="Edwin Newton">
+   <meta name="robots" content="index,follow" />
+
+<style type="text/css">
+.auto-style1 {
+	text-align: left;
+}
+</style>
+
+</head>
+
+<body>
+<div class='animatedParent animateOnce' >
+ <div id="topbar" class='animated  bounceInDown'>
+
+<!-- ADS -->
+Hey There! Shoot me a  <a style="color:yellow;"href="#contact">message</a> If your interested
+
+
+
+</div>
+</div>
+<div class='animatedParent animateOnce' >
+<header id="particles-js" class="tophead animated rotateIn" >
+
+<!--    Made by Erik Terwan    -->
+<!--   24th of November 2015   -->
+<!--    All rights reserved    -->
+<div class='animatedParent animateOnce'>
+<nav role="navigation">
+  <div id="menuToggle" class='animated rotateIn '>
+
+    <input type="checkbox" style="left: -5px; top: -7px; height: 32px" />
+
+
+   <span style="background-image: url(&quot;rainbow.gif&quot;);"></span>
+    <span></span>
+    <span style="background-image: url(&quot;rainbow.gif&quot;);"></span>
+
+
+    <ul id="menu">
+      <a href="#who_am_i"><li>Home</li></a>
+      <a href="#why_i_do_this"><li>About</li></a>
+      <a href="#experience"><li>Info</li></a>
+      <a href="#contact"><li>Contact</li></a>
+
+    </ul>
+  </div>
+</nav>
+</div>
+<div class='animatedParent animateOnce'>
+<h1 id="welcome" class='animated rollIn' style="left: 38%; top: 53%"> Welcome
+</h1>
+</div>
+</header>
+</div>
+
+<!-- thnx dude https://codepen.io/g13nn/pen/eHGEF  -->
+
+<section id="who_am_i"style=" height:1500px; background-color:#FFFFF0;">
+
+
+
+<h1 style="font-size:24px; font-family: 'Playfair Display', serif;text-align:center; "> 1/1/2018 </h1>
+<HR WIDTH="20%" NOSHADE align="center">
+
+<p id="watched"> <b class="bo"> Marcus </b> Being a father to him and a great role model I think His life is changed for the good </p>
+
+
+
+
+<div class="img">
+
+</div>
+<div id="second" class="img">
+
+</div>
+<p style="word-spacing:12px;"> <b class="bo"> Trevon </b> I made him more acountable for his actions always blamming someone else for his failures </p>
+
+<div id="third" class="img">
+
+</div>
+<p style="word-spacing:12px;"> <b class="bo"> Emmanuel  </b> Made him more stable and act more as a man</p>
+
+
+<h2 style="font-size:24px; font-family: 'Playfair Display', serif;text-align:center; "> Who What and Why </h2>
+<HR WIDTH="40%" NOSHADE align="center">
+<p style="word-spacing:6px; line-height:2em;font-size:38px;  "> <b> Who </b> I am Edwin Newton a Husband, Father of three wonderful and amazing children, minister and a Protector of the Faith <b> Why </b> I Do This to give a kid a sense of Hope, opportunity to dream and persue That can be what ever They want to be <b>"Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can't ride you unless your back is bent. Martin Luther King, Jr.</p>
+
+
+
+
+
+ </section>
+
+<section id="experience"style="height: 800px; background-color: #FFFFFF;  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;">
+<h1 style="font-size:24px; text-align:center; "> Video </h1>
+
+<HR WIDTH="40%" NOSHADE align="center">
+<div>
+<video  controls >
+  <source src="newtonvideo.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+</section>
+<footer id="contact" style="height:700px;background-color:gray">
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/70315775116151"></script>
+
+</footer>
+
+
+<script src="particles.js"></script>
+<script>
+/* ---- particles.js config ---- */
+
+particlesJS("particles-js", {
+  "particles": {
+    "number": {
+      "value": 100,
+      "density": {
+        "enable": true,
+        "value_area": 800
+      }
+    },
+    "color": {
+      "value": "#ffffff"
+    },
+    "shape": {
+      "type": "circle",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      },
+      "polygon": {
+        "nb_sides": 5
+      },
+      "image": {
+        "src": "img/github.svg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": false,
+      "anim": {
+        "enable": false,
+        "speed": 1,
+        "opacity_min": 0.1,
+        "sync": false
+      }
+    },
+    "size": {
+      "value": 3,
+      "random": true,
+      "anim": {
+        "enable": false,
+        "speed": 40,
+        "size_min": 0.1,
+        "sync": false
+      }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 150,
+      "color": "#ffffff",
+      "opacity": 0.4,
+      "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 6,
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "bounce": false,
+      "attract": {
+        "enable": false,
+        "rotateX": 600,
+        "rotateY": 1200
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "grab"
+      },
+      "onclick": {
+        "enable": true,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 140,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "bubble": {
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
+        "speed": 3
+      },
+      "repulse": {
+        "distance": 200,
+        "duration": 0.4
+      },
+      "push": {
+        "particles_nb": 4
+      },
+      "remove": {
+        "particles_nb": 2
+      }
+    }
+  },
+  "retina_detect": true
+});
+
+
+/* ---- stats.js config ---- */
+
+var count_particles, stats, update;
+stats = new Stats;
+stats.setMode(0);
+stats.domElement.style.position = 'absolute';
+stats.domElement.style.left = '0px';
+stats.domElement.style.top = '0px';
+document.body.appendChild(stats.domElement);
+count_particles = document.querySelector('.js-count-particles');
+update = function() {
+  stats.begin();
+  stats.end();
+  if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+    count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+  }
+  requestAnimationFrame(update);
+};
+requestAnimationFrame(update);
+</script>
+<script src="css3-animate-it.js">
+</script>
+</body>
+
+
+</html>
